@@ -1,0 +1,5 @@
+name: Potion
+main: io.github.staudx.CorePlugin
+version: 1.0-SNAPSHOT
+author: Staud
+description: Designed for HCF Networks.
